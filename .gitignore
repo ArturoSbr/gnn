@@ -3,3 +3,6 @@ gnn
 
 # Ignore jupyter junk
 .DS_Store
+
+# Ignore dataset
+elliptic_txs_*
