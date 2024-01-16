@@ -1,0 +1,5 @@
+# Ignore venv
+gnn
+
+# Ignore jupyter junk
+.DS_Store
